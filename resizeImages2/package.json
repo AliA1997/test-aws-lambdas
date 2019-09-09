@@ -1,0 +1,17 @@
+{
+  "name": "resizeImages2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.517.0",
+    "imagemagick": "^0.1.3",
+    "moment": "^2.24.0"
+  }
+}

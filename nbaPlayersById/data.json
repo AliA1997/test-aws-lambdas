@@ -1,0 +1,72 @@
+{
+    "players": [
+        {
+            "id": 1,
+            "name": "Lebron James"
+        },
+        {
+            "id": 2,
+            "name": "Chris Paul"
+        },
+        {
+            "id": 3,
+            "name": "Anthony Davis"
+        },
+        {
+            "id": 4,
+            "name": "Stephen Curry"
+        },
+        {
+            "id": 5,
+            "name": "Klay Thompson"
+        },
+        {
+            "id": 6,
+            "name": "Draymond Green"
+        },
+        {
+            "id": 7,
+            "name": "Russell Westbrook"
+        },
+        {
+            "id": 8,
+            "name": "Steven Adams"
+        },
+        {
+            "id": 9,
+            "name": "DeAngelo Russell"
+        },
+        {
+            "id": 10,
+            "name": "Victor Oladipo"
+        },
+        {
+            "id": 11,
+            "name": "Shaquille O'neal"
+        },
+        {
+            "id": 12,
+            "name": "Kawhi Leonard"
+        },
+        {
+            "id": 13,
+            "name": "Blake Griffin"
+        },
+        {
+            "id": 14,
+            "name": "Andre Drummond"
+        },
+        {
+            "id": 15,
+            "name": "Kyle Lowry"
+        },
+        {
+            "id": 16,
+            "name": "Demar Derozan"
+        },
+        {
+            "id": 17,
+            "name": "Kyrie Irving"
+        }
+    ]
+}
